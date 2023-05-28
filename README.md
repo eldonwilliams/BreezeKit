@@ -1,13 +1,28 @@
-# BreezeKit
-Open-source Set of React Components Built w/ TailwindCSS
+<!-- Header 'totally' not stolen from tailwindcss (cool media query trick tho) -->
 
-<a href="https://gitmoji.dev">
-  <img
-    src="https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=flat-square"
-    alt="Gitmoji"
-  />
-</a>
-<a href="https://badge.fury.io/js/breezekit"><img src="https://badge.fury.io/js/breezekit.svg" alt="npm version" height="18"></a>
+<p align="center">
+  <a href="https://breezekit.js.org/">
+    <img src="./assets/BreezeKitLogo.svg" alt="BreezeKit Logo" />
+  </a>
+</p>
+
+<p align="center">
+  Open-source Set of React Components Built w/ TailwindCSS
+</p>
+
+<p>
+
+<p align="center">
+  <a href="https://gitmoji.dev">
+    <img
+      src="https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=flat-square"
+      alt="Gitmoji"
+    />
+  </a>
+  <a href="https://badge.fury.io/js/breezekit"><img src="https://badge.fury.io/js/breezekit.svg" alt="npm version" height="18"></a>
+</p>
+
+---
 
 ## Installing
 
