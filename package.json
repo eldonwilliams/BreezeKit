@@ -37,6 +37,7 @@
     "typescript": "^5.0.4"
   },
   "dependencies": {
-    "react": "^18.2.0"
+    "react": "^18.2.0",
+    "tailwind-variants": "^0.1.5"
   }
 }
