@@ -3,6 +3,7 @@
     "target": "es5",
     "module": "commonjs",
     "lib": ["es6", "dom"],
+    "skipLibCheck": true, // Fixes tailwind-variants
     "declaration": true,
     "declarationMap": true,
     "sourceMap": true,
