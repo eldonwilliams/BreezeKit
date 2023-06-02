@@ -1,6 +1,6 @@
 {
   "name": "breezekit",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Open-source Collection of React Components Built w/ TailwindCSS",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
