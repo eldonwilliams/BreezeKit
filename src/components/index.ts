@@ -1,5 +1,7 @@
 import Typography from './Typography';
 
-export default {
+export const components = {
   Typography,
 };
+
+export default components;
